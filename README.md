@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jonfaldmo
+- 👀 I’m interested in fitness, cinema, and tech
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on anything for now, since I'm brand new. Any pointers are welcome!
+- 📫 How to reach me LinkedIn
